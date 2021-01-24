@@ -1,5 +1,5 @@
 
-![example workflow name](https://github.com/smartx-blaize/action-sample-cpp/workflows/CMake/badge.svg)
+![example workflow name](https://github.com/dankernel/action-sample-cpp/workflows/CMake/badge.svg)
 
 # Run
 ```
