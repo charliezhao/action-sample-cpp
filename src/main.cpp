@@ -24,6 +24,7 @@ int main(int argc, const char *argv[])
     int unused_var;
     unused_var = test_var1;
     
+    printf("display %d\n",test_var1);
     printf("SUCCESS\n");
     return test_var1; 
 }
