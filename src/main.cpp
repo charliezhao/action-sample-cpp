@@ -20,6 +20,6 @@
 
 int main(int argc, const char *argv[])
 {
-    printf("Hello Universe!\n");
+    printf("SUCCESS\n");
     return 0;
 }
