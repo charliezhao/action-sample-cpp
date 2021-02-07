@@ -13,6 +13,7 @@ set(CMAKE_RUNTIME_OUTPUT_DIRECTORY $ENV{PWD}/bin)
 
 include_directories(
     ./
+    ../inc
 )
 
 ADD_EXECUTABLE(main main.cpp processor.cpp)
