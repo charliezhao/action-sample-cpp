@@ -23,5 +23,5 @@ int main(int argc, const char *argv[])
     int test_var;
     
     printf("SUCCESS\n");
-    return test_var;
+    return test_var; 
 }
