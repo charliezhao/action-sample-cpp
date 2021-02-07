@@ -20,8 +20,8 @@
 
 int main(int argc, const char *argv[])
 {
-    int test_var;
+    int test_var1;
     
     printf("SUCCESS\n");
-    return test_var; 
+    return test_var1; 
 }
