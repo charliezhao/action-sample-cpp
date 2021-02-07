@@ -9,11 +9,6 @@ jobs:
 
     steps:
     - uses: actions/checkout@v2
-    - uses: ZedThree/clang-tidy-review@v0.2.0
-      id: review
-    # If there are any comments, fail the check
-    - if: steps.review.outputs.total_comments > 0
-      run: exit 1
 
     - name: clang-tidy review
       # You may pin to the exact commit or the version.
