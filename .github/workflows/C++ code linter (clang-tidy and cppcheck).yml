@@ -1,7 +1,0 @@
-- name: C++ code linter (clang-tidy and cppcheck)
-  # You may pin to the exact commit or the version.
-  # uses: smay1613/cpp-linter-action@3fac449193f32d391a0afdc42fbbb2ab7f90f991
-  uses: smay1613/cpp-linter-action@0.0.2
-  with:
-    # 
-    env: # optional
