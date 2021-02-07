@@ -15,7 +15,7 @@ include_directories(
     ./
 )
 
-ADD_EXECUTABLE(main main.cpp)
+ADD_EXECUTABLE(main main.cpp processor.cpp)
 
 enable_testing()
 add_test(test-1 ./bin/main)
