@@ -22,6 +22,7 @@ int main(int argc, const char *argv[])
 {
     int test_var1;
     int unused_var;
+    unused_var = test_var1;
     
     printf("SUCCESS\n");
     return test_var1; 
