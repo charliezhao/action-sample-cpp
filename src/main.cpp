@@ -21,6 +21,7 @@
 int main(int argc, const char *argv[])
 {
     int test_var1;
+    int unused_var;
     
     printf("SUCCESS\n");
     return test_var1; 
