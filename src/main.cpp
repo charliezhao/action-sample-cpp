@@ -20,6 +20,8 @@
 
 int main(int argc, const char *argv[])
 {
+    int test_var;
+    
     printf("SUCCESS\n");
-    return 0;
+    return test_var;
 }
